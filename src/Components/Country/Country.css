@@ -4,3 +4,14 @@
     padding: 20px;
     border-radius: 20px;
 }
+.btn{
+    background-color: rgb(18, 153, 183);
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+.countries-visited{
+    background-color: cornflowerblue;
+    color: white;
+}
