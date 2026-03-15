@@ -5,3 +5,8 @@
     
 }
 
+.visited-flags-container img {
+    height: 60px;
+    width: 120px;
+    margin-right: 10px;
+}
